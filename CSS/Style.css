@@ -1,0 +1,34 @@
+.navbar-collapse{
+    margin-left: 25% !important;
+
+}
+.navbar-brand{
+    margin-left: 5% !important;
+
+}
+.fixed-bottom{
+        bottom: 20px;
+        left: 95%;
+        padding: 10px 20px;
+         color:darkgreen;
+        scroll-padding-block-start: 50px;
+        size: 200%;
+}
+
+.navbar{
+    background-color: rgb(136, 166, 173)
+   
+
+}
+
+#home{
+
+    background-color: rgb(136, 166, 173)
+}
+.body{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+.fa-diseas{
+    color: red;
+}
